@@ -1,2 +1,2 @@
-# Summe-School
+# Summer-School
 Learning Python
